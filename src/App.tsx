@@ -73,7 +73,7 @@ const App = () => {
     <>
       <GlobalStyle />
       <Wrapper>
-        <h1>Cutlerwater Quizzes</h1>
+        <h1>Cutlerwater IT Quiz</h1>
         {gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
           <button className='start' onClick={startTrivia}>
             Start
@@ -97,6 +97,7 @@ const App = () => {
           </button>
         ) : null}
         <a href="https://cutlerwater-politicalquiz.netlify.app/">Click here to go to the political quiz</a>
+        <a href="https://cutlerwater-quizzes.netlify.app/">Click here to go to the IT quiz</a>
       </Wrapper>
     </>
   );
