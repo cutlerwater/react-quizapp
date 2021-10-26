@@ -98,6 +98,7 @@ const App = () => {
         ) : null}
         <a href="https://cutlerwater-politicalquiz.netlify.app/">Click here to go to the political quiz</a>
         <a href="https://cutlerwater-historyquiz.netlify.app/">Click here to go to the History quiz</a>
+        <a href="https://cutlerwater-sportsquiz.netlify.app/">Click here to go to the Sports quiz</a>
       </Wrapper>
     </>
   );
