@@ -96,6 +96,7 @@ const App = () => {
             Next Question
           </button>
         ) : null}
+        <a href="https://cutlerwater-politicalquiz.netlify.app/">Click here to go to the political quiz</a>
       </Wrapper>
     </>
   );
