@@ -32,6 +32,7 @@ export const Wrapper = styled.div`
     margin: 0;
   }
   a:link { color: #0f0;}
+  a:hover { color: #0f0;}
   h1 {
     font-family: Fascinate Inline;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
