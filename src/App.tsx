@@ -96,9 +96,12 @@ const App = () => {
             Next Question
           </button>
         ) : null}
-        <a href="https://cutlerwater-politicalquiz.netlify.app/">Click here to go to the political quiz</a>
-        <a href="https://cutlerwater-historyquiz.netlify.app/">Click here to go to the History quiz</a>
-        <a href="https://cutlerwater-sportsquiz.netlify.app/">Click here to go to the Sports quiz</a>
+        
+       <a href="https://cutlerwater-politicalquiz.netlify.app/">Click here to go to the Political quiz</a>
+       <a href="https://cutlerwater-historyquiz.netlify.app/">Click here to go to the History quiz</a>
+       <a href="https://cutlerwater-sportsquiz.netlify.app">Click here to go to the Sports quiz</a>
+       <a href="https://cutlerwater-mathquiz.netlify.app/">Click here to go to the Math quiz</a>
+       <a href="https://cutlerwater-celebritiesquiz.netlify.app/">Click here to go to the Celebrities quiz</a>
       </Wrapper>
     </>
   );
