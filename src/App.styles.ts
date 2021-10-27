@@ -31,7 +31,7 @@ export const Wrapper = styled.div`
     font-size: 2rem;
     margin: 0;
   }
-  a:link { color: #0f0;}
+  a { color: #0f0;}
   a:hover { color: #0f0;}
   h1 {
     font-family: Fascinate Inline;
