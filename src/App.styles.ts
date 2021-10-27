@@ -1,5 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components';
-import BGImage from './tech.jpg';
+import BGImage from './images/tech.jpg';
 
 export const GlobalStyle = createGlobalStyle`
   html {
