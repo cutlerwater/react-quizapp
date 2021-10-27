@@ -27,7 +27,7 @@ export const Wrapper = styled.div`
     color: #fff;
   }
   .score {
-    color: #fff;
+    color: #f00;
     font-size: 2rem;
     margin: 0;
   }
